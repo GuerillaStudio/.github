@@ -1,7 +1,5 @@
 <img width="687" alt="Guérilla.Studio" style="border-radius: 2rem" src="https://github.com/GuerillaHQ/.github/assets/2143796/da5dabd0-803b-4d81-8ffd-8145f1024953">
 
-A Radical Cyber Products Studio ∴ by two women and a cat in a trench-coat
-
 You can look at some of our projects (most of the sources are available here on our [Github orga](https://github.com/GuerillaHQ)):
 
 *   [CompteurDeGrève.fr](https://compteurdegreve.fr) — An indepent participation counter for the french strike of March 7th 2023 against the pension reform(/destruction)
