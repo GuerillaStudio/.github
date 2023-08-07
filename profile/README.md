@@ -2,7 +2,7 @@
 
 You can look at some of our projects (most of the sources are available here on our [Github orga](https://github.com/GuerillaHQ)):
 
-*   [Placehold.in](https://placehold.in) — A quick tool to display placeholder images during mockups and development
+*   [Placehold.in](https://placehold.in) — A quick way to display placeholder images during mockups and developement 
 *   [CompteurDeGrève.fr](https://compteurdegreve.fr) — An indepent participation counter for the french strike of March 7th 2023 against the pension reform(/destruction)
 *   [Souvenir](https://souvenir.cam) — Capture few seconds of your webcam/camera and generate a gif
 *   [Eldritch Radio](https://radio.eldritch.cafe) — A Mastodon based music webradio
