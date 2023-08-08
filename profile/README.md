@@ -1,4 +1,6 @@
-<img width="687" alt="Guérilla.Studio" style="max-width: 100%;" src="https://github.com/GuerillaHQ/.github/assets/2143796/da5dabd0-803b-4d81-8ffd-8145f1024953">
+<img width="640" alt="Guérilla.Studio Logo" src="https://github.com/GuerillaHQ/.github/assets/2143796/0543a85b-80a7-4a49-a1ac-1db218c16111">
+
+
 
 You can look at some of our projects (most of the sources are available here on our [Github orga](https://github.com/GuerillaHQ)):
 
