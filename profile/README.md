@@ -13,6 +13,7 @@ You can look at some of our projects (most of the sources are available here on 
 
 **\[NEW\]** We have a [blog](https://guerilla.studio/blog/?from=gh-readme-guerilla) now! Here our last posts:
 
+* [The Mastodon media limitations final guide](https://guerilla.studio/blog/mastodon-media-upload-limits/?from=gh-readme-guerilla) <sup>(August 2023)</sup>
 * [Welcome the beta of Placehold.in](https://guerilla.studio/blog/welcome-placeholdin-beta/?from=gh-readme-guerilla) <sup>(July 2023)</sup>
 * [Accessibility and CSS customisation in Mastodon: The “Publish” button](https://guerilla.studio/blog/accessibility-css-customisation-mastodon-publish-button/?from=gh-readme-guerilla) <sup>(July 2023)</sup>
 * [How to make colored placeholder on Hugo](https://guerilla.studio/blog/make-colored-placeholder-hugo/?from=gh-readme-guerilla) <sup>(March 2020)</sup>
