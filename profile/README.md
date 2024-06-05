@@ -18,8 +18,14 @@ You can look at some of our projects (most of the sources are available here on 
 * [Accessibility and CSS customisation in Mastodon: The “Publish” button](https://guerilla.studio/blog/accessibility-css-customisation-mastodon-publish-button/?from=gh-readme-guerilla) <sup>(July 2023)</sup>
 * [How to make colored placeholder on Hugo](https://guerilla.studio/blog/make-colored-placeholder-hugo/?from=gh-readme-guerilla/?from=gh-readme-guerilla) <sup>(March 2020)</sup>
 
-And feel free to follow what we say (nothing very interesting I'm afraid):
+And feel free to follow what we say on social platforms:
+
+*   🐘 [Mastodon](https://mastodon.guerilla.studio/@GuerillaHQ)
+*   📷 [Instagram](https://instagram.com/GuerillaHQ)
+*   ☠️ [Twitter/X](https://x.com/GuerillaHQ)
+
+Or on our own personal account (nothing very interesting I'm afraid):
 
 *   🐘 [Milia on Mastodon](https://mastodon.guerilla.studio/@milia)
 *   🐘 [Tixie on Mastodon](https://mastodon.guerilla.studio/@tixie)
-*   ☠️ [The Studio on Twitter/X](https://twitter.com/GuerillaHQ)
+
