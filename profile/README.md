@@ -21,7 +21,7 @@ You can look at some of our projects (most of the sources are available here on 
 And feel free to follow what we say on social platforms:
 
 *   🐘 [Mastodon](https://mastodon.guerilla.studio/@GuerillaHQ)
-*   📷 [Instagram](https://instagram.com/GuerillaHQ)
+*   📷 [Instagram](https://instagram.com/guerilla.studio_)
 *   ☠️ [Twitter/X](https://x.com/GuerillaHQ)
 
 Or on our own personal account (nothing very interesting I'm afraid):
