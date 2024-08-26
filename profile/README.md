@@ -1,7 +1,7 @@
 <img width="640" alt="Guérilla.Studio Logo" src="https://github.com/GuerillaHQ/.github/assets/2143796/2473f38f-07d5-4589-9827-d0bd26ff773c">
 
 
-You can look at some of our projects (most of the sources are available here on our [Github orga](https://github.com/GuerillaHQ)):
+You can look at some of our projects (most of the sources are available here on our [Github orga](https://github.com/GuerillaStudio)):
 
 *   [Placehold.in](https://placehold.in/?from=gh-readme-guerilla) — A quick way to display placeholder images during mockups and development <sup>(2023)</sup>
 *   [CompteurDeGrève.fr](https://compteurdegreve.fr) — An independent participation counter for the french strike of March 7th 2023 against the pension reform(/destruction) <sup>(2023)</sup>
